@@ -1,7 +1,3 @@
-### Hi there 👋
-
-### Languages and Tools:
-
 <!-- Your github readme stats
 You can use this api: https://github.com/RetroZhou/github-readme-stats
 -->
