@@ -2,7 +2,7 @@
 You can use this api: https://github.com/RetroZhou/github-readme-stats
 -->
 <p>
-    <img width="55%" align="right" alt="Sachin's github stats" src="https://github-readme-stats.vercel.app/api?username=RetroZhou&show_icons=true&hide_border=true"/>
+    <img width="55%" align="right" alt="Retro's github stats" src="https://github-readme-stats.vercel.app/api?username=RetroZhou&show_icons=true&hide_border=true"/>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
